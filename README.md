@@ -1,4 +1,4 @@
-# Customer Custering
+# Customer Clustering
 Using Transaction Data of Ta-Feng supermarket from 2010 to 2011 to explore clustering and customer segmentation
 
 In this project, we focused on practicing cleaning and manipulating data using “data.table” packages, creating 40 new features. Also, we applied PCA and k-mean clustering to segment customers.
